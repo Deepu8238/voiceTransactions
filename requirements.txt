@@ -1,0 +1,6 @@
+Flask
+pymongo
+numpy
+scipy
+spacy
+nltk
